@@ -1,0 +1,13 @@
+{
+    "name": "temperature-converter",
+    "version": "1.0.0",
+    "main": "index.html",
+    "window": {
+      "title": "Temperature Converter",
+      "width": 400,
+      "height": 600,
+      "icon": "app_icon.ico",
+      "resizable": false
+    }
+  }
+  
